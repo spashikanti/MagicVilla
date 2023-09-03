@@ -1,0 +1,11 @@
+2023-09-03 22:28:54.570 +00:00 [ERR] Error logged, 0 not found
+2023-09-03 22:29:11.569 +00:00 [ERR] Error logged, 0 not found
+2023-09-03 22:31:29.253 +00:00 [ERR] Error logged, 0 not found
+2023-09-03 22:31:29.300 +00:00 [WRN] No output formatter was found for content types '["application/problem+json","application/problem+xml","application/problem+json","application/problem+xml"]' to write the response.
+2023-09-03 22:31:37.242 +00:00 [ERR] Error logged, 0 not found
+2023-09-03 22:47:19.202 +00:00 [WRN] No output formatter was found for content types '["application/problem+json","application/problem+xml","application/problem+json","application/problem+xml"]' to write the response.
+================
+2023-09-03 22:53:57.472 +00:00 [ERR] ERROR - Get Villa Error with id 0
+2023-09-03 22:53:57.532 +00:00 [WRN] No output formatter was found for content types '["application/problem+json","application/problem+xml","application/problem+json","application/problem+xml"]' to write the response.
+2023-09-03 22:54:07.619 +00:00 [ERR] ERROR - Get Villa Error with id 0
+2023-09-03 23:00:42.732 +00:00 [WRN] No output formatter was found for content types '["application/problem+json","application/problem+xml","application/problem+json","application/problem+xml"]' to write the response.
