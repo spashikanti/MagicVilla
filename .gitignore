@@ -2,18 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs*
-/.vs/
-/.vs/MagicVilla_VillaAPI/v17/.suo
+/.vs
 /MagicVilla_VillaAPI/bin/
-/MagicVilla_VillaAPI/bin/Debug/net7.0/MagicVilla_VillaAPI.dll
-/MagicVilla_VillaAPI/bin/Debug/net7.0/MagicVilla_VillaAPI.pdb
 /MagicVilla_VillaAPI/obj/
-/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.dll
-/MagicVilla_VillaAPI/bin/Debug/net7.0/MagicVilla_VillaAPI.dll
-/MagicVilla_VillaAPI/bin/Debug/net7.0/MagicVilla_VillaAPI.pdb
-/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.dll
-/MagicVilla_VillaAPI/obj/Debug/net7.0/MagicVilla_VillaAPI.pdb
-/.vs/MagicVilla_VillaAPI/DesignTimeBuild/.dtbcache.v2
-/.vs/MagicVilla_VillaAPI/v17/.suo
-/.vs/MagicVilla_VillaAPI/DesignTimeBuild/.dtbcache.v2
